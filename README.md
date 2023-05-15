@@ -1,1 +1,1 @@
-//ts-mern-petpos web appgit add README.md
+//ts-mern-petpos web app
